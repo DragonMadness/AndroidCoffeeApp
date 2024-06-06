@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidCoffeeApp</string>
+    <string name="name">Кофе - и точка</string>
+    <string name="special_header">Латте с сиропом</string>
+    <string name="special_body">Попробуй латте с лавандовым сиропом и получи кешбек 5%!</string>
+    <string name="coffee_section_header">Кофе</string>
+    <string name="desserts_section_header">Десерты</string>
+</resources>
